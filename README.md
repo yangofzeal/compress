@@ -21,7 +21,7 @@ $ python3 compress.py
 python3 compress.py compress kjv.txt kjv.hkd
 
 $ python3 compress.py compress kjv.txt kjv.hkd
-
+```
 benchmark=hkdinf_connected_component_phrase_grammar_vs_bzip2
 input=kjv.txt
 input_bytes=4638061
@@ -47,11 +47,12 @@ search_seconds=42.935599
 global_dictionary_optimum_proved=False
 general_compression_breakthrough=False
 output=kjv.hkd
-
+```
 # usage (decompress)
 
 $ python3 compress.py decompress kjv.hkd kjv.2.txt
-
+```
 output=kjv.2.txt
 output_bytes=4638061
 sha256=6e84e15d2a42eaba3a689ba696384bc79047840cf9dde36bd1b9fc52219d45ce
+```
