@@ -4,6 +4,7 @@ Python program to compress and decompress files more efficiently than bzip2 by a
 # installation
 ```
 $ mkdir pyarmor_runtime_000000
+
 $ mv __init__.py pyarmor_runtime.so pyarmor_runtime_000000/
 ```
 folder structure should look like this:
