@@ -1,20 +1,13 @@
 # compress
 Python program to compress and decompress files more efficiently than bzip2 by about 0.114%
 
-# installation
-```
-$ mkdir pyarmor_runtime_000000
-
-$ mv __init__.py pyarmor_runtime.so pyarmor_runtime_000000/
-```
-folder structure should look like this:
+Local folder structure should look like this:
 ```
 ├── compress.py
 └── pyarmor_runtime_000000/
     ├── __init__.py
     └── pyarmor_runtime.so
 ```
-$ python3 compress.py
 
 # usage (compress):
 
